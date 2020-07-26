@@ -1,0 +1,16 @@
+Here I give a short description of each file contained in the zip folder.
+
+- bike_sharing_challenge_report.pdf: the 5-page report containing all the relevant topics
+
+- source_code/bike_sharing_report.ipynb: the jupyter notebook I worked. Also contains most of the parts for the other .py files.
+
+- source_code/bike_sharing_complete_report.pdf: a rendered version of the above jupyter notebook. It is the complete report and all the project information, runs etc.
+
+- source_code/create_feature_table.py: preprocessing and manipulating tables with pandas. Everything is included in the notebook.
+
+- source_code/xboost_model.py: code for training and validating the model. Everything is also included in the notebook.
+
+- source_code/clean_status.py: Contains the code for manipulating and cleaning the status.csv to extract the relevant data. It is done here
+  because the csv file is too large.
+
+- external_data/avail_bikes.csv: the data source I generated from the status.csv containing the available bikes at the station every hour.
